@@ -6,7 +6,7 @@ Lab 1 : Git, Python et Structure Projet
 import pandas as pd
 
 # ===== CHARGER LES DONNÉES =====
-df = pd.read_csv("data/patients_dakar.xlsx - patients_dakar.csv.csv")
+df = pd.read_csv("data/patients_dakar.csv")
 
 # ===== PREMIERS APERÇUS =====
 print("=" * 50)
